@@ -53,7 +53,7 @@ function Home() {
         <section className="welcome-section">
           <h1>Bienvenue à PteroPark</h1>
           <h2>Découvrez nos offres</h2>
-          <p>Explorez nos événements et réservez vos billets dès aujourd'hui.</p>
+          <p>Explorez nos événements et réservez vos billets dès aujourd'hui</p>
           <button className="explore-button">Explorer les événements</button>
         </section>
       </main>
